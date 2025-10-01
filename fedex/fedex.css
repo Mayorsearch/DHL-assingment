@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #4e148d;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+
+.signup {
+  display: flex;
+  color: white;
+  gap: 30px;
+}
+
+/* Welcome Fedex */
+
+.welcome {
+  background-image: url(2019_Marrakech_35941.jpg);
+}
+
+.rate {
+  background-color: #fafafa;
+  border: 1 solid;
+  width: 150px;
+  height: 100px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.track {
+  background-color: #4e148d;
+  color: white;
+  text-align: center;
+  align-items: center;
+  justify-content: space-around;
+  border: 1 solid;
+  width: 150px;
+  height: 100px;
+}
+
+.icons {
+  padding-top: 50px;
+  display: flex;
+
+  text-align: center;
+  justify-content: center;
+}
+
+.ship {
+  background-color: #fafafa;
+  border: 1 solid;
+  width: 150px;
+  height: 100px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.search {
+  width: 350px;
+  height: 50px;
+  text-align: center;
+  justify-content: space-around;
+  border-radius: 2px;
+}
+
+.btn {
+  background-color: #fe6302;
+  color: white;
+  width: 100px;
+  height: 30px;
+  border-radius: 2px;
+}
+
+.submit {
+  background-color: #fe6302;
+  color: white;
+  width: 80px;
+  height: 50px;
+  border-radius: 2px;
+}
+
+.input {
+  display: flex;
+  padding: 50px;
+  gap: 5px;
+  justify-content: center;
+}
+
+/* Important note */
+
+.important {
+  border: solid;
+  padding: 30px;
+  margin-top: 50px;
+  background-color: #fef9f1;
+}
+
+/* SHIPMENTS */
+
+.shipments {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.courier {
+  justify-content: center;
+  align-items: center;
+}
+
+h5 {
+  color: #0c76c4;
+}
+
+.open {
+  background-color: #4e148d;
+  color: white;
+  text-align: center;
+  height: 400px;
+}
+
+.Thinking {
+  padding: 20px;
+  text-align: center;
+  border-color: #fafafa;
+  border: 1 solid;
+  background-color: #fafafa;
+
+  margin-top: 20px;
+}
+
+.more {
+  color: #077ab8;
+  width: 150px;
+  height: 50px;
+  border-radius: 25px;
+  border: 0.5;
+  border-color: #077ab8;
+  background-color: white;
+}
+
+.meisa {
+  padding: 50px;
+  display: flex;
+  gap: 30px;
+}
+
+.foot {
+  display: flex;
+  gap: 50px;
+  justify-content: space-around;
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+}

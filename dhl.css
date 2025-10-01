@@ -1,0 +1,299 @@
+/* navbar */
+
+.navbar {
+  background-color: #fecb02;
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+}
+
+.list {
+  display: flex;
+  gap: 30px;
+  margin-left: 700px;
+}
+
+/* navbar2 */
+
+.Navbar2 {
+  display: flex;
+  gap: 10px;
+}
+
+.Customer {
+  margin-left: 700px;
+}
+
+/* shipment */
+
+.shipment {
+  background-image: url(africa-core-homepage-banner.web.785.246.png);
+  width: 100vw;
+}
+
+.Trackshipment {
+  color: white;
+  text-align: center;
+  border: 2px;
+}
+
+.search {
+  width: 400px;
+  height: 40px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-left: 300px;
+  margin-top: 100px;
+  border-radius: 2px;
+  border: 1px solid;
+}
+
+.btn {
+  background-color: red;
+  color: white;
+  height: 40px;
+  width: 70px;
+  border: 0;
+}
+
+.options {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  background: #f9f9f9;
+}
+
+.card {
+  flex: 1;
+  text-align: center;
+  padding: 20px;
+  margin: 1px;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 2px 2px 5px grey;
+}
+
+p {
+  color: grey;
+  font-size: smaller;
+}
+
+.body2 {
+  background-color: #fecb02;
+  padding: 20px;
+  display: flex;
+  gap: 30px;
+  height: 150px;
+}
+
+.complex {
+  color: black;
+}
+
+.Explore {
+  background-color: red;
+  color: white;
+  text-align: center;
+  width: 200px;
+  height: 30px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.shipper {
+  font-size: 20px;
+  color: black;
+}
+
+.learn {
+  color: black;
+}
+
+/* body */
+
+.body3 {
+  display: flex;
+  padding: 40px;
+  gap: 10px;
+  background-color: white;
+}
+
+.signs {
+  background-color: white;
+}
+
+.woman {
+  background-color: #f9f9f9;
+  border: grey;
+  padding: 10px;
+  border-radius: 8px;
+  flex: 1;
+  text-align: center;
+  box-shadow: 2px 2px 5px grey;
+  width: 500px;
+}
+
+.parcel {
+  background-color: #f9f9f9;
+  border: solid grey;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px;
+  width: 500px;
+  margin: 0 0 100px;
+}
+
+.plane {
+  background-color: #fecb02;
+  width: 20px;
+}
+
+.icons {
+  display: flex;
+  gap: 20px;
+}
+
+.icons2 {
+  display: flex;
+  gap: 10px;
+}
+
+.flaticons {
+  background-color: #f2f2f2;
+  border: 1 solid;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.Express {
+  background-color: red;
+  color: white;
+  width: 250px;
+  text-align: center;
+  height: 40px;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+}
+
+/* body4 */
+
+.body4 {
+  background-color: white;
+  padding: 40px;
+  display: flex;
+  gap: 20px;
+}
+
+.Cargo {
+  background-color: #f9f9f9;
+  border: #f9f9f9 solid;
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px;
+  margin: 0 0 -120px;
+}
+
+.discover {
+  color: black;
+}
+
+.Freight {
+  display: flex;
+  gap: 10px;
+  text-align: center;
+  justify-content: center;
+}
+
+.Freight2 {
+  display: flex;
+  gap: 10px;
+  text-align: center;
+  justify-content: center;
+}
+
+.Global {
+  background-color: red;
+  color: white;
+  width: 250px;
+  text-align: center;
+  height: 40px;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 150px;
+}
+
+.body5 {
+  background-color: white;
+  padding: 20px;
+}
+
+.driver {
+  background-color: #f9f9f9;
+  border: #f9f9f9 solid;
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px;
+}
+
+.teaser {
+  background-color: #f9f9f9;
+  border: #f9f9f9 solid;
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px;
+}
+
+.sustain {
+  color: black;
+}
+
+.decade {
+  color: black;
+}
+
+.DHL {
+  display: flex;
+  gap: 20px;
+}
+
+/* Footer CSS */
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Last {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  padding: 40px;
+  color: #333;
+}
+
+.Fraud {
+  display: flex;
+  gap: 15px;
+  padding-left: 10px;
+}
+
+/* Social media icons */
+
+.Groupsection {
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+  background-color: #f8f8f8;
+}
+
+.svg {
+  justify-content: center;
+}
