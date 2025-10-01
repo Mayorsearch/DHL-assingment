@@ -313,7 +313,6 @@ header {
   border-radius: 8px;
   padding: 20px;
   transition: transform 0.3s ease;
-  display: flex;
 }
 
 .free:hover {
